@@ -21,6 +21,7 @@ import java.util.Map;
 
 /**
  * An interface for a cache keyed by a String with a byte array as data.
+    定义缓存接口
  */
 public interface Cache {
     /**
